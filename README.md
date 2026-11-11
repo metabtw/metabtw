@@ -30,50 +30,49 @@ Alongside software architecture, I actively build custom hardware systems, F450 
     <td valign="top" width="33%">
       <h4>Frontend & Mobile</h4>
       <div align="center">  
-        <a href="https://reactjs.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React / React Native" height="40" /></a>  
-        <a href="https://nextjs.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/nextjs-assets/nextjs-white-icon.svg" alt="Next.js" height="40" /></a>  
-        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>  
-        <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss-bleed.svg" alt="Tailwind CSS" height="40" /></a>  
-        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>  
+        <a href="https://reactjs.org/" target="_blank"><img style="margin: 6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" /></a>  
+        <a href="https://nextjs.org/" target="_blank"><img style="margin: 6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" /></a>  
+        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" /></a>  
+        <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="40" /></a>  
+        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" /></a>  
       </div>
     </td>
     <td valign="top" width="33%">
       <h4>Backend & Database</h4>
       <div align="center">  
-        <a href="https://nestjs.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="40" /></a>  
-        <a href="https://nodejs.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a>  
-        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" /></a>  
-        <a href="https://www.python.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>  
-        <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" /></a>  
+        <a href="https://nestjs.com/" target="_blank"><img style="margin: 6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" height="40" /></a>  
+        <a href="https://nodejs.org/" target="_blank"><img style="margin: 6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" /></a>  
+        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40" /></a>  
+        <a href="https://www.python.org/" target="_blank"><img style="margin: 6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" /></a>  
+        <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" /></a>  
       </div>
     </td>
     <td valign="top" width="33%">
       <h4>Tools & OS</h4>
       <div align="center">  
-        <a href="https://github.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
-        <a href="https://www.linux.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux (Ubuntu)" height="40" /></a> 
+        <a href="https://git-scm.com/" target="_blank"><img style="margin: 6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40" /></a>  
+        <a href="https://www.linux.org/" target="_blank"><img style="margin: 6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" /></a>  
+        <a href="https://www.ubuntu.com/" target="_blank"><img style="margin: 6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" height="40" /></a>  
+      </div>
+    </td>
   </tr>
 </table>
 
+---
 
-## Connect with me  
+### Connect with Me
 
 <div align="center">
   <a href="https://github.com/metabtw" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://www.linkedin.com/in/meta-64us43ku" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://x.com/tahtaliME" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="x" />
   </a>
   <a href="https://www.instagram.com/tahtalime" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>  
-</div>  
-
-<br />
-
-----
-<div align="center">Customized for Muhammed Emin Tahtalı</div>
+</div>
