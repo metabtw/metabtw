@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Muhammed%20Emin%20Tahtalı&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%" />
-</div>  
-  
 
 ### <div align="center">Full-Stack & Mobile Developer | Computer Engineering Student</div>  
   
