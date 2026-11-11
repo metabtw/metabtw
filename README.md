@@ -53,3 +53,28 @@ Alongside software architecture, I actively build custom hardware systems, F450 
         <a href="https://github.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
         <a href="https://www.linux.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux (Ubuntu)" height="40" /></a>  
         <a
+
+
+
+
+## Connect with me  
+
+<div align="center">
+  <a href="https://github.com/metabtw" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/meta-64us43ku" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://x.com/tahtaliME" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/tahtalime" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+  </a>  
+</div>  
+
+<br />
+
+----
+<div align="center">Customized for Muhammed Emin Tahtalı</div>
