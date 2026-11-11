@@ -51,9 +51,8 @@ Alongside software architecture, I actively build custom hardware systems, F450 
       <h4>Tools & OS</h4>
       <div align="center">  
         <a href="https://github.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
-        <a href="https://www.linux.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux (Ubuntu)" height="40" /></a>  
-        <a
-
+        <a href="https://www.linux.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux (Ubuntu)" height="40" /></a> 
+  </tr>
 </table>
 
 
