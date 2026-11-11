@@ -54,7 +54,7 @@ Alongside software architecture, I actively build custom hardware systems, F450 
         <a href="https://www.linux.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux (Ubuntu)" height="40" /></a>  
         <a
 
-
+</table>
 
 
 ## Connect with me  
